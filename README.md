@@ -1,1 +1,1 @@
-- 📫 taocancan@buaa.edu.cn
+Email: taocancan@buaa.edu.cn
